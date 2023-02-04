@@ -1,4 +1,4 @@
-### Hello there! I'm Ning, a software engineer, just like you. &#128075;
+### My name is Ning. I'm a CS major, just like you. &#128075;
 
 
 ## Welcome to my Github
