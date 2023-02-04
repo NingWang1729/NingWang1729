@@ -1,4 +1,4 @@
-### My name is Ning. I'm a CS major, just like you. &#128075;
+### My name is Ning. I'm a CS major, just like you. I've been studying computational biology lately, just out of curiosity. Here, in bioinformatics, there are so many possibilities to explore. Applying computer science to biology, there are extremely powerful possibilities. Who knows? You may encounter something like it while you're exploring with your Emacs.
 
 
 ## Welcome to my Github
